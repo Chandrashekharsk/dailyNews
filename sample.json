@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sam Bankman-Fried: Trial of 'Crypto King' begins",
+    "description": "The former crypto billionaire is accused of \"one of the biggest financial frauds in US history\".",
+    "url": "http://www.bbc.co.uk/news/business-66990824",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6628/production/_131325162_gettyimages-1498698469.jpg",
+    "publishedAt": "2023-10-04T09:07:21.7887237Z",
+    "content": "Former crypto billionaire Sam Bankman-Fried is staring down decades in prison, as his trial over what has been called one of the biggest financial frauds in US history gets under way. \r\nOpening argum… [+4724 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Asian Games: China censors 'Tiananmen' image of athletes hugging",
+    "description": "The photo, showing the combination of numbers 6 and 4 , has been scrubbed on Chinese social media.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-67002583",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB4E/production/_131324165_16067803a5215d9ccaf4df329275386b98c7eabd0_478_2612_14692612x1469.jpg",
+    "publishedAt": "2023-10-04T05:37:15.023372Z",
+    "content": "A photo of two Chinese female athletes that made an inadvertent reference to the Tiananmen Square massacre has been censored on Chinese social media.\r\nThe race numbers for Lin Yuwei and Wu Yanni form… [+1883 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Dead soldier suffered relentless sexual harassment - Army report",
+    "description": "Jaysley Beck, 19, is thought to have taken her own life after harassment by her boss, the Army says.",
+    "url": "http://www.bbc.co.uk/news/uk-66982160",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143D6/production/_131320928_jaysley-index.jpg",
+    "publishedAt": "2023-10-04T05:07:17.4355474Z",
+    "content": "A female teenage soldier is believed to have taken her own life after relentless sexual harassment by one of her bosses, an Army investigation has found. \r\nRoyal Artillery Gunner Jaysley Beck, 19, wa… [+7793 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US sanctions Chinese firms in crackdown on fentanyl supply chain",
+    "description": "The move is part of efforts to target the supply chain of the drug amid the opioid crisis in the US.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67002385",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10060/production/_131323656_gettyimages-1258331916.jpg",
+    "publishedAt": "2023-10-04T01:37:16.4448874Z",
+    "content": "The US has announced sanctions on 25 China-based firms and individuals allegedly involved in the production of chemicals used to make fentanyl.\r\nFentanyl, a potent opioid used as a painkiller or seda… [+2585 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US House of Representatives votes to oust Speaker McCarthy in backbench revolt",
+    "description": "It is the first time ever that a leader of the lower chamber of Congress has been removed by such a motion.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66990984",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/163FC/production/_131323119_gettyimages-1704947852.jpg",
+    "publishedAt": "2023-10-04T00:52:17.2880971Z",
+    "content": "Media caption, Watch: The moment McCarthy is removed as House speaker\r\nKevin McCarthy has been ousted in a right-wing revolt - the first time ever that the US House of Representatives' Speaker has lo… [+4621 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kevin McCarthy's replacement will inherit a poisoned chalice too",
+    "description": "The House is a broken institution - Kevin McCarthy looked almost relieved when the axe finally fell.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67001136",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B56/production/_131320920_mcarthy-index-reuters.jpg",
+    "publishedAt": "2023-10-03T22:52:15.0083747Z",
+    "content": "Back in January, Kevin McCarthy struck a deal to become House speaker that gave any one member of Congress the power to force a vote on whether to remove him.\r\nOn Tuesday, one Republican - Matt Gaetz… [+4413 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump: Judge issues gag order on former president in NY fraud case",
+    "description": "The ex-president attacked the judge's clerk in a social media post which was removed after the order.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67001699",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7550/production/_131323003_b835c5a57eae281ded61cd4bb27d0d2422ec80a1.jpg",
+    "publishedAt": "2023-10-03T21:52:16.5004416Z",
+    "content": "Media caption, Watch: Trump tells BBC he will testify at appropriate time\r\nThe judge presiding over Donald Trump's civil fraud case issued a limited gag order after the ex-president made \"disparaging… [+1747 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "At least 20 dead as Venice bus plunges from bridge",
+    "description": "The bus crashed off an overpass in the Mestre district on the mainland, officials say.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67001518",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-10-03T20:07:20.9290189Z",
+    "content": "At least 20 people have died after a bus fell off a flyover near the Italian city of Venice, local officials say.\r\nThe bus broke through a barrier and plunged about 10m onto railway tracks in the dis… [+277 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Canada MPs elect first black House of Commons Speaker",
+    "description": "Greg Fergus's first task will be to turn the page on the recent Nazi in parliament row.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67000773",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142BE/production/_131322628_5c73c35790268c4a34e33956d69fc81843d366e10_32_4183_23521000x563.jpg",
+    "publishedAt": "2023-10-03T19:22:22.1992752Z",
+    "content": "Canada has elected Liberal MP Greg Fergus to be the new Speaker of the House of Commons after the previous one resigned amid a Nazi in parliament row.\r\nMr Fergus - the first black man to hold the pos… [+2151 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "India asks Canada to withdraw dozens of diplomatic staff - reports",
+    "description": "It marks an escalation of a crisis sparked by Canada linking India to the fatal shooting of a Sikh separatist.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-66991662",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A759/production/_131314824_gettyimages-923276752-594x594.jpg",
+    "publishedAt": "2023-10-03T17:07:19.7889564Z",
+    "content": "India has asked Canada to withdraw about 40 diplomatic staff from India, reports say, in a sharp escalation of a weeks-long crisis.\r\nThose who stayed past 10 October would lose their diplomatic immun… [+2637 chars]"
+    }
+    ]
+    }
