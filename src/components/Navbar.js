@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logo from "../components/logo.png"
 
 const Navbar = () => {
   return (
     <div>
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
-            NewsMonkey
+          <Link className="navbar-brand margin-right-[20px]" to="/">
+          <img src={logo} alt="" />
           </Link>
           <button
             className="navbar-toggler"
@@ -22,14 +23,30 @@ const Navbar = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+              
               {/* <li className="nav-item">
-                <Link className="nav-link" to="/home">
+                <Link className="nav-link" to="/">
                   Home
                 </Link>
               </li> */}
               <li className="nav-item">
-                <Link className="nav-link" to="/home">
-                  Home
+                <Link className="nav-link" to="/environment">
+                  Environment
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/world">
+                  World
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/politics">
+                  Politics
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/food">
+                  Food
                 </Link>
               </li>
               <li className="nav-item">
@@ -37,6 +54,7 @@ const Navbar = () => {
                   Entertainment
                 </Link>
               </li>
+
               <li className="nav-item">
                 <Link className="nav-link" to="/business">
                   Business

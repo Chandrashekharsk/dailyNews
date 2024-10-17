@@ -9,8 +9,6 @@ import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
 
 const App = ()=> {
   const pageSize = 6;
-  // apiKey = process.env.REACT_APP_NEWS_API
-  const apiKey = "bcd2042a91774d2d802e4b23c3625032";
   const [progress,setProgress] = useState(0);
 
     return (
@@ -22,20 +20,27 @@ const App = ()=> {
 
         <Routes>
 
+          <Route exact strict path="/" element={<News setProgress = {setProgress} key="top" pageSize = {pageSize} country="in" category= "top"/>} />
 
-          <Route exact strict path="/home" element={<News setProgress = {setProgress} apiKey={apiKey} key="general" pageSize = {pageSize} country= "in" category= "general"/>} />
+          <Route exact strict path="/food" element={<News setProgress = {setProgress} key="food" pageSize = {pageSize} country="in" category= "food"/>} />
 
-          <Route exact strict path="/entertainment" element={<News setProgress = {setProgress} apiKey={apiKey} key="entertainment" pageSize = {pageSize} country= "in" category= "entertainment"/>}/>
+          <Route exact strict path="/politics" element={<News setProgress = {setProgress} key="politics" pageSize = {pageSize} country="in" category= "politics"/>} />
 
-          <Route exact strict path="/business" element={<News setProgress = {setProgress} apiKey={apiKey} key="business" pageSize = {pageSize} country= "in" category= "business"/>} />
+          <Route exact strict path="/world" element={<News setProgress = {setProgress} key="world" pageSize = {pageSize} country="in" category= "world"/>} />
 
-          <Route exact strict path="/technology" element={<News setProgress = {setProgress} apiKey={apiKey} key="technology" pageSize = {pageSize} country= "in" category= "technology"/>} />
+          <Route exact strict path="/environment" element={<News setProgress = {setProgress} key="environment" pageSize = {pageSize} country="in" category= "environment"/>} />
 
-          <Route exact strict path="/health" element={<News setProgress = {setProgress} apiKey={apiKey} key="health" pageSize = {pageSize} country= "in" category= "health"/>} />
+          <Route exact strict path="/entertainment" element={<News setProgress = {setProgress} key="entertainment" pageSize = {pageSize} country= "in" category= "entertainment"/>}/>
 
-          <Route exact strict path="/sports" element={<News setProgress = {setProgress} apiKey={apiKey} key="sports" pageSize = {pageSize} country= "in" category= "sports"/>} />
+          <Route exact strict path="/business" element={<News setProgress = {setProgress} key="business" pageSize = {pageSize} country= "in" category= "business"/>} />
 
-          <Route exact strict path="/science" element={<News setProgress = {setProgress} apiKey={apiKey} key="science" pageSize = {pageSize} country= "in" category= "science"/>} />
+          <Route exact strict path="/technology" element={<News setProgress = {setProgress}  key="technology" pageSize = {pageSize} country= "in" category= "technology"/>} />
+
+          <Route exact strict path="/health" element={<News setProgress = {setProgress} key="health" pageSize = {pageSize} country= "in" category= "health"/>} />
+
+          <Route exact strict path="/sports" element={<News setProgress = {setProgress} key="sports" pageSize = {pageSize} country= "in" category= "sports"/>} />
+
+          <Route exact strict path="/science" element={<News setProgress = {setProgress} key="science" pageSize = {pageSize} country= "in" category= "science"/>} />
 
 
         </Routes>
