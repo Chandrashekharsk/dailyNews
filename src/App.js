@@ -6,6 +6,8 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar';
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const App = ()=> {
   const pageSize = 6;
@@ -44,7 +46,7 @@ const App = ()=> {
 
 
         </Routes>
-
+        <ToastContainer/>
         </Router>
       </div>
     )
